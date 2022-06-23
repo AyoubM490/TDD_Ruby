@@ -8,8 +8,7 @@ describe Solver do
   it 'should test when given number is negative' do
     expect { @solver.factorial(-5) }.to raise_error(RuntimeError)
   end
-then create reverse_spec.rb
-require_relative '../solver'
+end
 
 describe Solver do
   before :each do
