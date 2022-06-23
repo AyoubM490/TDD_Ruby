@@ -24,6 +24,12 @@ This is an educational project made for the purpose of practicing Test Driven De
 - Twitter: [@KnowledgeUserD](https://twitter.com/KnowledgeUserD)
 - LinkedIn: [Ayoub Chahir](https://www.linkedin.com/in/ayoub-chahir/)
 
+
+👤 **Keza**
+
+- GitHub:  [Visit my github](https://github.com/keza681)
+- LinkedIn:  [Linkedin Profile](https://www.linkedin.com/in/linda-keza)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
