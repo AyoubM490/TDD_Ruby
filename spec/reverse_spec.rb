@@ -6,7 +6,7 @@ describe Solver do
   end
 
   it 'should test when given number is negative' do
-    expect { @solver.factorial(-5) }.to raise_error(RuntimeError)
+    expect { @solver.factorial(-5) }.to raise_exception(RuntimeError)
   end
 end
 
